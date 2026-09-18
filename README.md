@@ -36,7 +36,6 @@ This repo contains all tasks from today's C++ DSA lab on pointers and dynamic me
 
 **What I learnt:** Changing a size variable never actually grows existing heap memory  the only way to grow is allocating fresh memory and copying data into it.
 
----
 
 **Task 6 – Debugging Undefined Behaviour**
 
